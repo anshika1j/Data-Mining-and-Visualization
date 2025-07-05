@@ -1,4 +1,4 @@
-# Wlecome to my GitHub Repository fot Data Visualization & Mining Notes !
+# Wlecome to my GitHub Repository fot Data Mining & Visualization Notes !
 
 > “The goal is to turn data into information, and information into insight.” 
 
