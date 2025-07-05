@@ -34,12 +34,12 @@ This section will help you understand **what**, **why**, and **how** of **Data V
 
 | Domain        | Application                                                                      |
 |---------------|----------------------------------------------------------------------------------|
-| 🛒 E-commerce  | Recommend products based on user behavior (like Amazon, Flipkart)               |
-| 🧬 Healthcare  | Detect disease patterns, predict outbreaks, patient clustering                  |
-| 🏦 Finance     | Detect fraud, credit scoring, stock pattern analysis                            |
-| 🎓 Education   | Analyze student performance & dropout prediction                                |
-| 📊 Business    | Sales dashboards, market trend forecasting, performance monitoring              |
-| 🔍 Search      | Google auto-suggestions, query pattern analysis                                 |
+|  E-commerce  | Recommend products based on user behavior (like Amazon, Flipkart)               |
+|  Healthcare  | Detect disease patterns, predict outbreaks, patient clustering                  |
+|  Finance     | Detect fraud, credit scoring, stock pattern analysis                            |
+|  Education   | Analyze student performance & dropout prediction                                |
+|  Business    | Sales dashboards, market trend forecasting, performance monitoring              |
+|  Search      | Google auto-suggestions, query pattern analysis                                 |
 
 
 ## Techniques Involved
